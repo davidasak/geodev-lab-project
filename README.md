@@ -1,7 +1,7 @@
 # Shomolu Emergency Healthcare Accessibility
 
 **Research Question:**  
-Which residential areas in Shomolu LGA are more than 2 km from the nearest emergency healthcare facility?
+Which residential areas in Shomolu LGA are more than 500 m from the nearest emergency healthcare facility?
 
 **Why It Matters:**  
 To identify residential areas with limited access to emergency healthcare and support better healthcare planning.
@@ -23,3 +23,7 @@ Map residential areas and emergency healthcare facilities, calculate the distanc
 ## Output
 
 A map showing residential areas more than 2 km from the nearest emergency healthcare facility.
+
+# Month 2: development environment and early Python
+## Week 5: set up Python, VS Code and the terminal
+hello.py runs.
