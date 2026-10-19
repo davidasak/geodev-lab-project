@@ -30,3 +30,6 @@ hello.py runs.
 
 ## Week 6: set up the project with uv and added pandas.
 check.py prints the pandas version.
+
+## Week 7: analyse.py 
+Reads wards.csv, converts each area and classifies each ward.
