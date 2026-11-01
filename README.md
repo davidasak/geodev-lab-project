@@ -36,3 +36,10 @@ Reads wards.csv, converts each area and classifies each ward.
 
 ## Week 8: inspect_data.py 
 summarises the length of line features of my road network data.
+
+## Week 9: summary.py
+
+### Month 2 Reflection
+This month seemed better for me than the previous month.
+in this month the refactoring lesson was really nice as it truly makes exactly the same thing easier to understand and seem more like reading in plain English. 
+I still believe some certain syntax will require going back to as but i definitely believe it will be easier with more practice.
